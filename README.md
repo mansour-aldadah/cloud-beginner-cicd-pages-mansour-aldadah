@@ -6,7 +6,7 @@
 
 ## GitHub Pages Link
 
-(will be added after deployment)
+https://mansour-aldadah.github.io/cloud-beginner-cicd-pages-mansour-aldadah/
 
 ## How to Open Locally
 
